@@ -1,4 +1,6 @@
-# calculator
+# Calculator
+
+![](./sample-img.png)
 
 ## Project setup
 ```
